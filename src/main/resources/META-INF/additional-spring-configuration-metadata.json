@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "tsa.digest",
+  "type": "java.lang.String",
+  "description": "A description for 'tsa.digest'"
+}]}
